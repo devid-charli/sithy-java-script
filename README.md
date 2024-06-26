@@ -1,1 +1,0 @@
-# sithy-java-script
