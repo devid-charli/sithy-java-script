@@ -1,33 +1,17 @@
-var friendName = "lamiiiiii"
-console.log(friendName);
-
-
-var myAge =44444
-console.log(myAge)
-
-var friendName ="abc"
-console .log (friendName)
-
-var myAge = 30
-console.log(myAge)
 
 
 
-var mangoName ="rupali"
-console.log( mangoName)
 
-
-var myVIllage ='korapara'
-console.log(myVIllage)
-
-var myDog =`rasti`
-console.log(myDog)
-
-var myVIllage ="ABC"
-console.log(myVIllage)
-
-
-
-var myCcow ='bala'
+var myCcow =`45555555`
 console.log(typeof  myCcow);
 
+var myNumber =1222266;
+console.log(typeof myNumber)
+
+
+
+var booltype = true;
+console.log(booltype)
+
+var boType = false;
+console.log( typeof boType)
